@@ -1,6 +1,6 @@
 # shoping_cart
-# Shop your required items 
-:rocket: [Link to website][https://weatherapp-iota-self.vercel.app/]
+
+:rocket: [Link to website][https://shoping-cart-ebon.vercel.app/]
 
 
 ![Main Page](image/shoping_cart_1.png)
